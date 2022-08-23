@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.thebinary.org</loc>
-	<lastmod>2022-08-21</lastmod>
+	<lastmod>2022-08-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -16,7 +16,7 @@
 </url>
 <url>
 	<loc>https://www.thebinary.org/20220819-kids-apps-privacy/</loc>
-	<lastmod>2022-08-21</lastmod>
+	<lastmod>2022-08-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -29,22 +29,22 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://www.thebinary.org/20220819-iam-algorithm/</loc>
-	<lastmod>2022-08-21</lastmod>
+	<loc>https://www.thebinary.org/20220822-iam-algorithm/</loc>
+	<lastmod>2022-08-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://www.thebinary.org/img/20220818_IAM_ALGORITHM_SOCIAL.jpg</image:loc>
+	<image:loc>https://www.thebinary.org/img/20220822_IAM_ALGORITHM_SOCIAL.jpg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.thebinary.org/img/20220818_IAM_ALGORITHM_SOCIAL.jpg</image:loc>
+	<image:loc>https://www.thebinary.org/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.thebinary.org/20220819-voters-guide/</loc>
-	<lastmod>2022-08-21</lastmod>
+	<lastmod>2022-08-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -57,16 +57,16 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://www.thebinary.org/20220819-click-aegeandocs/</loc>
-	<lastmod>2022-08-21</lastmod>
+	<loc>https://www.thebinary.org/20220823-click-aegeandocs/</loc>
+	<lastmod>2022-08-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://www.thebinary.org/img/</image:loc>
+	<image:loc>https://www.thebinary.org/img/20220820_CLICK_AEGEANDOCS_SOCIAL.jpg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.thebinary.org/img/</image:loc>
+	<image:loc>https://www.thebinary.org/img/20220820_CLICK_AEGEANDOCS_SOCIAL.jpg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
