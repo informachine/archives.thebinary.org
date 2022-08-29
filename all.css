@@ -1114,13 +1114,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Text colour styles */
 
-.tc-dark-jungle-green{
-	color:#181818!important;
-}
 .tc-white{
 	color:#FFFFFF!important;
 }
-.tc-dark-jungle-green-2{
+.tc-dark-jungle-green{
 	color:#220A3E!important;
 }
 .tc-persian-indigo{
@@ -1185,6 +1182,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-20220820-CLICK-AEGEANDOCS{
 	background-image:url("https://cdn.thebinary.org/images/articles/20220820_CLICK_AEGEANDOCS.jpg");
+}
+.bg-20220828-TEDTALK-COIN{
+	background-image:url("https://cdn.thebinary.org/images/articles/20220828_TEDTALK_COIN.jpg");
 }
 
 
