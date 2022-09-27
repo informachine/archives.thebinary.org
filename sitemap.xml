@@ -84,4 +84,18 @@
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
+<url>
+	<loc>https://www.thebinary.org/20220927-click-aegeandocs/</loc>
+	<lastmod>2022-09-27</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.thebinary.org/img/20220820_CLICK_AEGEANDOCS_SOCIAL.jpg</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.thebinary.org/img/20220820_CLICK_AEGEANDOCS_SOCIAL.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
 </urlset>
